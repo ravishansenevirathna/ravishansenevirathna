@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravishan Senevirathna</h1>
-<h3 align="center">Software Engineer | AWS Certified | Cybersecurity Enthusiast</h3>
+<h3 align="center">Intern Software Engineer | AWS Certified | Cybersecurity Enthusiast</h3>
 
 - 🔭 I’m currently working on **Software Engineering, AWS, and Cybersecurity projects.**
 

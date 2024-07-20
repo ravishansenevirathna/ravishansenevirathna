@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Engineering, AWS, and Cybersecurity projects.**
 
-- 🌱 I’m currently studying at **University of Colombo** and learning **Angular**.
+- 🌱 I’m currently studying at **University of Colombo**.
 
 - ⚡ Fun fact: **You can call me "Ravi".**
 

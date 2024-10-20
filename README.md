@@ -89,4 +89,7 @@
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://argocd-image-updater.readthedocs.io/en/latest/assets/logo.png" alt="argocd" width="40" height="40"/>
+  </a>
 </p>

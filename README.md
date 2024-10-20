@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Ravishan Senevirathna</h1>
-<h3 align="center">Intern Software Engineer | AWS | DevOps Enthusiast</h3>
+<h1 align="center">Greetings, I'm Ravishan Senevirathna</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | DevOps Enthusiast</h3>
 
-- 🔭 I’m currently working on **Software Engineering & AWS projects.**
+<p align="center">
+  ✨ I'm passionate about building innovative solutions and exploring the realms of software engineering and DevOps.
+</p>
 
-- 🌱 I’m currently studying at **University of Colombo**.
+- 🔭 **Current Focus**: Diving into **Software Engineering & AWS Projects** that challenge my skills and expand my horizons.
+- 🌱 **Education**: Proudly pursuing my degree at the **University of Colombo**, where I'm sharpening my technical abilities.
 
-- ⚡ Fun fact: **You can call me "Ravi".**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/ravi_trrs" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravi_trrs" height="30" width="40" />
@@ -76,15 +77,15 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+</a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
